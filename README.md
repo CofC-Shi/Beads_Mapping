@@ -1,2 +1,2 @@
 # Beads_Mapping
-mapping impedance signal with optical signal
+This project aims to map impedance signal with optical signal
